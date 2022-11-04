@@ -1,0 +1,5 @@
+com\wx\dzz\WeiXinApplication.class
+com\wx\dzz\wx\HttpClientUtils.class
+com\wx\dzz\test\Test.class
+com\wx\dzz\wx\AgentWeixinReplyController.class
+com\wx\dzz\wx\SignUtil.class
